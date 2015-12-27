@@ -3,9 +3,7 @@
 Alis here, I've decided to publish my useful library of functions and things of that sort for ROBLOX ( maybe you could use it for your lua program..? )! I will try my best to keep this updated, but for now, be happy with what I've published foo.
 
 Contents:
-Part 1 - Thingys
-Includes -
-getChildren(instance Object, bool Recursive)
+Part 1 - Get Service
 Example:
 ```lua
 local allChildren = getChildren(game.Workspace, true)
